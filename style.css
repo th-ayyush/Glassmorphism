@@ -4,13 +4,12 @@
 
 body {
   background: #1488cc;
-  /* fallback for old browsers */
   background: linear-gradient(to left, #283593, #1976d2);
   height: 100vh;
   font-family: "Josefin Sans", sans-serif;
 }
 
-/* Background circles start */
+
 .circle {
   position: absolute;
   border-radius: 50%;
@@ -37,7 +36,7 @@ body {
   right: -90px;
   opacity: 0.8;
 }
-/* Background circles end */
+
 
 .card-group {
   position: absolute;
@@ -118,7 +117,7 @@ body {
   right: 40px;
 }
 
-/* The two rings on the card background */
+
 .ring {
   height: 500px;
   width: 500px;
