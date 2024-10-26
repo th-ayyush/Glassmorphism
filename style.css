@@ -46,6 +46,8 @@ body {
   transform: translate(-50%, -50%);
 }
 
+
+//Styling for card
 .card {
   position: relative;
   height: 270px;
